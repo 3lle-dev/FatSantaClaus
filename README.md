@@ -42,4 +42,4 @@ This tool is provided strictly for educational and research purposes. I am not r
 
 👾 Enjoy hacking (ethically)! If you find bugs or have suggestions, feel free to contribute!
 
-💬 Join the community! Have questions or want to chat? Join my Discord server: Join here
+💬 Join the community! Have questions or want to chat? Join my Discord server: [Join here](https://discord.com/invite/ZRf5PJYGMk)
